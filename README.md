@@ -40,7 +40,7 @@ Interface totalmente **interativa via terminal**, com menus simples e navegaçã
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/SEU_USUARIO/taskforge.git
+   git clone https://github.com/Loboguar4/taskforge.git
 
 2. Acesse o diretório do projeto:
 
@@ -56,12 +56,12 @@ Interface totalmente **interativa via terminal**, com menus simples e navegaçã
 
 Execute diretamente pelo Python:
 
-    python3 gerenciador.py
+    python3 taskforge.py
 
 
 Ou, se estiver executável:
 
-    ./gerenciador.py
+    ./taskforge.py
 
 
 Na primeira execução, o arquivo `tarefas.json` será criado automaticamente no mesmo diretório para persistência dos dados.
